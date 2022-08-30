@@ -1,4 +1,11 @@
-# Prettier Formatter for Visual Studio Code
+# My attempt to extend the very limited toolset of _Prettier_ as a formatter for VS Code
+## History
+### 2022-08-30: Fork
+I'm still setting up, no changes have been made to the code yet.
+
+___
+# Original Readme:
+## Prettier Formatter for Visual Studio Code
 
 [Prettier](https://prettier.io/) is an opinionated code formatter. It enforces a consistent style by parsing your code and re-printing it with its own rules that take the maximum line length into account, wrapping code when necessary.
 
